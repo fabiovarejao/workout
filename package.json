@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "fs": "^0.0.1-security",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.2.2",
     "nodemailer": "^4.6.7",
     "nodemailer-express-handlebars": "^3.0.0",
